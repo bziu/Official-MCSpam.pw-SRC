@@ -19,9 +19,9 @@ if ($session->getSession() === false) {
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <title>MCSpam | Minecraft botting service</title>
+    <title>StarNode | Test de Antibots</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta content="MCSpam is a service that allows you to bot target mc servers, Doesn't matter of they're premium. You can bot them with ease." name="description" />
+    <meta content="Antigua pagina de MCSPAM, hecha para probar los antibots y vunerabilidades." name="description" />
     <meta content="Rayan, Navix" name="author" />
     <!-- App favicon -->
     <link rel="shortcut icon" href="assets/images/favicon.ico">
@@ -55,7 +55,7 @@ if ($session->getSession() === false) {
         <div class="topbar-left">
             <a href="index" class="logo">
                 <span>
-                    <h2 style="margin-top: 6%;">MCSpam</h2>
+                    <h2 style="margin-top: 6%;">StarNode</h2>
                 </span>
             </a>
         </div>
@@ -144,7 +144,7 @@ if ($session->getSession() === false) {
                     <h4 class="page-title mb-2"><i class="mdi mdi-monitor-dashboard mr-2"></i>Dashboard</h4>
                     <div class="">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="javascript:void(0);">MCSpam</a></li>
+                            <li class="breadcrumb-item"><a href="javascript:void(0);">STARBOTS</a></li>
                             <li class="breadcrumb-item active">Dashboard</li>
                         </ol>
                     </div>
@@ -231,17 +231,15 @@ if ($session->getSession() === false) {
                                         <div class="card-header" id="headingOne">
                                             <h5 class="my-0">
                                                 <button class="btn btn-link ml-4" type="button" data-toggle="collapse" data-target="#collapseOnes" aria-expanded="true" aria-controls="collapseOne">
-                                                    What is MCSpam
+                                                    What is StarBots
                                                 </button>
                                             </h5>
                                         </div>
 
                                         <div id="collapseOnes" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample-faq">
                                             <div class="card-body">
-                                                MCSpam is a service that allows you to bot minecraft servers, both premium and cracked.
-                                                By sending an attack the system sends an enormous amount of bots to the targeted server causing it to crash.
-                                                In most cases this works fine, but servers may have plenty of resources to withstand such an attack.
-                                                We're constantly upgrading our power to resolve this.
+                                                Este servicio proporcionado por StarNode, es una herramienta para testear antibots de tus servidores.
+                                                Totalmente gratuito y de la mano con StarNode
                                             </div>
                                         </div>
                                     </div>
@@ -269,7 +267,7 @@ if ($session->getSession() === false) {
                                         </div>
                                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample-faq">
                                             <div class="card-body">
-                                                You can contact us over discord, or open a ticket <a href="ticket">here</a><br>Discord: <a href="https://discord.gg/k7reMVM">https://discord.gg/k7reMVM</a>
+                                                You can contact us over discord, or open a ticket <a href="ticket">here</a><br>Discord: <a href="https://discord.gg/starnode">https://discord.gg/starnode</a>
                                             </div>
                                         </div>
                                     </div>
@@ -327,7 +325,7 @@ if ($session->getSession() === false) {
             </div><!-- container -->
 
             <footer class="footer text-center text-sm-left">
-                &copy; 2019 MCSpam v2.0 <span class="text-muted d-none d-sm-inline-block float-right">Developed with <i class="mdi mdi-heart text-danger"></i> by Rayan#6666</span>
+                &copy; 2022 StarNode Corporation LTD v2.0 <span class="text-muted d-none d-sm-inline-block float-right">Developed with <i class="mdi mdi-heart text-danger"></i> by Rayan#6666</span>
             </footer>
         </div>
         <!-- end page content -->
